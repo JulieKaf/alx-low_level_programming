@@ -1,7 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - prints all possible combinations of two two-digit numbers
- * Retur: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
